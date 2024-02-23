@@ -32,5 +32,5 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown(
-    '`Create by` [Intel-Unnati](https://github.com/AbnaEV) | \
+    '`Create by` [AbnaEV](https://github.com/AbnaEV) | \
          `Code:` [GitHub](https://github.com/AbnaEV/https://intel-course-deployment-demo01.streamlit.app/)')
