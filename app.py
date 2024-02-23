@@ -33,4 +33,4 @@ st.text('')
 st.text('')
 st.markdown(
     '`Create by` [AbnaEV](https://github.com/AbnaEV) | \
-         `Code:` [GitHub](https://github.com/AbnaEV/https://intel-course-deployment-demo01.streamlit.app/)')
+         `Code:` [GitHub](https://github.com/AbnaEV/https://https://github.com/AbnaEV/Deployment-Repo/blob/main/app.py/)')
